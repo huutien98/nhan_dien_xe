@@ -1,0 +1,22 @@
+<svg width="41" height="60" viewBox="0 0 41 60" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g clip-path="url(#clip0_10027_20889)">
+<g filter="url(#filter0_d_10027_20889)">
+<path d="M-3.47937 28.2427C-0.841544 26.0061 1.46648 24.0365 3.7255 22.1833C9.7379 17.142 15.7119 12.1396 21.6474 7.17607C23.1478 5.92404 24.6484 4.70516 26.1821 3.48608C27.5921 2.27494 29.4026 1.63248 31.2606 1.68399C33.1186 1.73551 34.8908 2.47731 36.2315 3.76471C37.5721 5.0521 38.3852 6.79275 38.5119 8.64713C38.6387 10.5015 38.0701 12.3366 36.9171 13.7945C35.0103 16.325 32.9202 18.7075 30.9793 21.1057C26.8344 26.2019 22.706 31.3146 18.561 36.4108C16.5708 38.8589 14.6472 41.373 12.5899 43.689C11.6505 44.8815 10.478 45.8702 9.14394 46.5948C7.80989 47.3194 6.34224 47.7646 4.83048 47.9034C3.31871 48.0422 1.79452 47.8716 0.350845 47.402C-1.09283 46.9324 -2.42572 46.1737 -3.56657 45.1722C-4.70742 44.1706 -5.6323 42.9471 -6.28483 41.5764C-6.93736 40.2057 -7.30385 38.7164 -7.36196 37.1994C-7.42007 35.6824 -7.16858 34.1694 -6.62282 32.7528C-6.07706 31.3362 -5.24847 30.0456 -4.18758 28.9596L-3.47937 28.2427Z" fill="#C3E7D8" fill-opacity="0.1" shape-rendering="crispEdges"/>
+</g>
+</g>
+<defs>
+<filter id="filter0_d_10027_20889" x="-12.3701" y="0.681152" width="55.8994" height="56.269" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+<feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0" result="hardAlpha"/>
+<feOffset dy="4"/>
+<feGaussianBlur stdDeviation="2.5"/>
+<feComposite in2="hardAlpha" operator="out"/>
+<feColorMatrix type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.2 0"/>
+<feBlend mode="normal" in2="BackgroundImageFix" result="effect1_dropShadow_10027_20889"/>
+<feBlend mode="normal" in="SourceGraphic" in2="effect1_dropShadow_10027_20889" result="shape"/>
+</filter>
+<clipPath id="clip0_10027_20889">
+<rect width="41" height="60" fill="white"/>
+</clipPath>
+</defs>
+</svg>

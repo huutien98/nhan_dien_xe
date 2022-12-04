@@ -1,0 +1,1649 @@
+[
+    {
+        "name": "Bệnh viện Hữu Nghị Việt Đức ",
+        "address": "40 Tràng Thi, Hàng Bông, Hoàn Kiếm, Hà Nội",
+        "phone": "024 3825 3531",
+        "location": {
+            "lat": 21.0278086,
+            "lng": 105.8464144
+        }
+    },
+    {
+        "name": "Bệnh viện Bệnh Nhiệt Đới TW",
+        "address": "78 Giải Phóng, Phương Đình, Đống Đa, Hà Nội",
+        "phone": "(024).3576 3491",
+        "location": {
+            "lat": 21.0004244,
+            "lng": 105.841063
+        }
+    },
+    {
+        "name": "Bệnh viện Đa khoa Xanh Pôn",
+        "address": "12 Chu Văn An, Điện Biên, Ba Đình, Hà Nội",
+        "phone": "0438233075 - 0438233073",
+        "location": {
+            "lat": 21.0314198,
+            "lng": 105.8360476
+        }
+    },
+    {
+        "name": "Bệnh viện đa khoa Medlatec ",
+        "address": "Số 42 Nghĩa Dũng, Ba Đình Hà Nội",
+        "phone": "1900 565656",
+        "location": {
+            "lat": 21.0485694,
+            "lng": 105.8460875
+        }
+    },
+    {
+        "name": "Bệnh viện đa khoa Quốc Tế Bắc Hà",
+        "address": "137 Nguyễn Văn Cừ, Ngọc Lâm, Long Biên, Hà Nội",
+        "phone": "0986 822 333/ 1900 8083",
+        "location": {
+            "lat": 21.0424001,
+            "lng": 105.8715823
+        }
+    },
+    {
+        "name": "Bệnh viện Đa khoa Quốc Tế Vinmec Times City ",
+        "address": "Số 458 Minh Khai, P.Vĩnh Tuy, Q.Hai Bà Trưng, HN",
+        "phone": "024 3974 3556",
+        "location": {
+            "lat": 20.9972752,
+            "lng": 105.8671037
+        }
+    },
+    {
+        "name": "Bệnh viện quốc tế Dolife",
+        "address": "108 Nguyễn Hoàng, Mỹ Đình, Nam Từ Liêm, Hà Nội",
+        "phone": "1900 1984",
+        "location": {
+            "lat": 21.0334584,
+            "lng": 105.7713912
+        }
+    },
+    {
+        "name": "Bệnh viện ung bướu Hưng Việt",
+        "address": "34 Đại Cồ Việt, Lê Đại Hành, Hai Bà Trưng, Hà Nội",
+        "phone": "024 6250 0707",
+        "location": {
+            "lat": 21.0088316,
+            "lng": 105.8486392
+        }
+    },
+    {
+        "name": "Bệnh viện Đa khoa quốc tế Thu Cúc ",
+        "address": "Số 286 thụy Khuê, Tây Hồ, Hà Nội",
+        "phone": "1900558892",
+        "location": {
+            "lat": 21.0451282,
+            "lng": 105.8144674
+        }
+    },
+    {
+        "name": "Bệnh viện đa khoa Hồng Ngọc ",
+        "address": "Số 55, Yên Ninh, Ba Đình, HN ",
+        "phone": "024 3927 5568 Nhánh 0",
+        "location": {
+            "lat": 21.0424649,
+            "lng": 105.8441577
+        }
+    },
+    {
+        "name": "Bệnh viện Mắt Việt Nhật ",
+        "address": "122 Triệu Việt Vương, Bùi Thị Xuân, Hai Bà Trưng, Hà Nội ",
+        "phone": "024 3974 3636",
+        "location": {
+            "lat": 21.0145601,
+            "lng": 105.8502906
+        }
+    },
+    {
+        "name": "Bệnh viện đa khoa Đông Đô ",
+        "address": "Số 5, Đào Duy Anh, Phương Liên",
+        "phone": "1900 1965",
+        "location": {
+            "lat": 21.0078016,
+            "lng": 105.8394649
+        }
+    },
+    {
+        "name": "Bệnh viện đa khoa Tâm Anh",
+        "address": "108 Hoàng Như Tiếp, Bồ Đề, Long Biên, Hà Nội",
+        "phone": "1800 6858",
+        "location": {
+            "lat": 21.0407305,
+            "lng": 105.8766463
+        }
+    },
+    {
+        "name": "Bệnh viện đa khoa tư nhân Hà Thành",
+        "address": "Số 57-59-61 Vũ Thạnh, Ô Chợ Dừa, Đống Đa, Hà Nội",
+        "phone": "091 262 69 69",
+        "location": {
+            "lat": 21.0266999,
+            "lng": 105.8265668
+        }
+    },
+    {
+        "name": "Bệnh viện Đa khoa Phương Đông ",
+        "address": "Số 9, Phố Viên, Cổ Nhuế 2, Bắc Từ Liêm, Hà Nội",
+        "phone": "1900 1806",
+        "location": {
+            "lat": 21.0713952,
+            "lng": 105.773378
+        }
+    },
+    {
+        "name": "Bệnh viện Mắt Quốc Tế DND",
+        "address": "128 Bùi Thị Xuân, Hai Bà Trưng, Hà Nội",
+        "phone": "1900 6966",
+        "location": {
+            "lat": 21.0129461,
+            "lng": 105.8496484
+        }
+    },
+    {
+        "name": "Bệnh viện Đa khoa Tư nhân Hà Nội - Công ty Cổ phần Y Khoa Hano",
+        "address": "29 Hàn Thuyên, Hai Bà Trưng, Hà Nội",
+        "phone": "1900 234529",
+        "location": {
+            "lat": 21.0182645,
+            "lng": 105.8556119
+        }
+    },
+    {
+        "name": "Bệnh viện Phụ sản An Thịnh",
+        "address": "Số 496, phố Bạch Mai, phường Trương Định, quận Hai Bà Trưng, HN",
+        "phone": "096 968 50 55",
+        "location": {
+            "lat": 20.9972156,
+            "lng": 105.8497516
+        }
+    },
+    {
+        "name": "Bệnh viện Đa khoa An Việt ",
+        "address": "Số 1E Trường Chinh, Phương Liệt, Thanh Xuân, Hà Nội",
+        "phone": "096 733 96 33",
+        "location": {
+            "lat": 20.9971883,
+            "lng": 105.8423041
+        }
+    },
+    {
+        "name": "Công ty TNHH Dược Phẩm Thành Phương ",
+        "address": "286 Thụy Khuê, P. Bưởi, Q. Tây Hồ, Hà Nội",
+        "phone": "chưa có thông tin ",
+        "location": {
+            "lat": 21.0451282,
+            "lng": 105.8144674
+        }
+    },
+    {
+        "name": "Bệnh viện Đa khoa Bảo Sơn Bao Son Hospital",
+        "address": "52 Nguyễn Chí Thanh, Láng Thượng, Đống Đa, Hà Nội",
+        "phone": "1900 599 858",
+        "location": {
+            "lat": 21.0248685,
+            "lng": 105.810741
+        }
+    },
+    {
+        "name": "Bệnh viện đa khoa chữ thập Xanh",
+        "address": "Số 33 đường Nguyễn Hoàng, Phường Mỹ Đình 2, Quận Nam Từ Liêm, Hà Nội",
+        "phone": "1900 638003",
+        "location": {
+            "lat": 21.0314068,
+            "lng": 105.7739855
+        }
+    },
+    {
+        "name": "Công ty TNHH Bệnh viện ĐKTN An Sinh - Phúc Trường Minh (Bệnh viện Hồng Ngọc - Phúc Trường Minh)",
+        "address": "Số 8 Châu Văn Liêm, Phường Phú Đô, Quận Nam Từ Liêm, TP. Hà Nội",
+        "phone": "024 7300 8866",
+        "location": {
+            "lat": 21.0071573,
+            "lng": 105.7669127
+        }
+    },
+    {
+        "name": "Phòng khám đa khoa Medlatec Tây Hồ ",
+        "address": "Số 99, Trích Sài, Bưởi, Tây Hồ, Hà Nội",
+        "phone": "1900 565656",
+        "location": {
+            "lat": 21.0473451,
+            "lng": 105.8140088
+        }
+    },
+    {
+        "name": "Phòng khám đa khoa Medlatec Thanh Xuân ",
+        "address": "Số 5 đường Khuất Duy Tiến, Phường Thanh Xuân Bắc, Quận Thanh Xuân, TP Hà Nội",
+        "phone": "1900 565656",
+        "location": {
+            "lat": 20.9928189,
+            "lng": 105.8016909
+        }
+    },
+    {
+        "name": "Phòng khám Royal City ",
+        "address": "Tầng 1, Tòa nhà R2B, Royal City, 72A Nguyễn Trãi, Quận Thanh Xuân, Hà Nội",
+        "phone": "024 3975 6887",
+        "location": {
+            "lat": 21.0030832,
+            "lng": 105.815442
+        }
+    },
+    {
+        "name": "Phòng Khám Vinmec Metropolis ",
+        "address": "Tầng 1, tòa nhà M1, khu căn hộ Vinhomes Metropolist Liễu Giai, Số 29 Liễu Giai, Ba Đình, HN",
+        "phone": "02439743556 ",
+        "location": {
+            "lat": 21.0311462,
+            "lng": 105.8147864
+        }
+    },
+    {
+        "name": "Phòng Khám Vinmec Gardenia ",
+        "address": "Shop Office A1OF09, tầng 2 nhà Chung Cư A1, Dự Án Vinhomes Gardenia, Cầu Diễn, Nam Từ Liêm, HN",
+        "phone": "02439756788",
+        "location": {
+            "lat": 21.0364751,
+            "lng": 105.7663117
+        }
+    },
+    {
+        "name": "Phòng khám Đa khoa Quốc tế Thu Cúc ",
+        "address": "216 Trần Duy Hưng, Trung Hòa, Cầu Giấy, Hà Nội",
+        "phone": "093 638 82 88",
+        "location": {
+            "lat": 21.0082622,
+            "lng": 105.7956871
+        }
+    },
+    {
+        "name": "Phòng khám Đa khoa Quốc tế Thu Cúc - Nguyễn Trãi ",
+        "address": "126-136 Nguyễn Trãi, Phường Thượng Đình, Quận Thanh Xuân, Thành Phố Hà Nội, Việt Nam",
+        "phone": "093 638 82 88",
+        "location": {
+            "lat": 20.999042,
+            "lng": 105.81432
+        }
+    },
+    {
+        "name": "Phòng khám Đa khoa Quốc tế Thu Cúc - Đại Từ ",
+        "address": "Tầng hầm và tầng 1,tòa nhà HH01, Eco lakeview, số 32 Đại Từ, Phường Đại Kim, Quận Hoàng Mai, Thành Phố Hà Nội, Việt Nam",
+        "phone": "093 638 82 88",
+        "location": {
+            "lat": 20.9718652,
+            "lng": 105.8384699
+        }
+    },
+    {
+        "name": "Phòng khám đa khoa Quốc tế Hồng Ngọc Keangnam ",
+        "address": "Khu B1 và Tầng 10, Keangnam Landmark 72, Phạm Hùng,Hà Nội",
+        "phone": "024 3927 5568 Nhánh 1",
+        "location": {
+            "lat": 21.0181822,
+            "lng": 105.7841791
+        }
+    },
+    {
+        "name": "Phòng khám Hồng Ngọc Savico ",
+        "address": "Tầng 3, tòa B, Savico Megamall, 07- 09 Nguyễn Văn Linh, Long Biên, Hà Nội",
+        "phone": "024 3927 5568 nhánh  5",
+        "location": {
+            "lat": 21.0503204,
+            "lng": 105.893574
+        }
+    },
+    {
+        "name": "Phòng khám Đa khoa Hồng Ngọc Nguyễn Tuân H",
+        "address": "Tầng 1, NO2, TTTM TNL Plaza Goldseason, 47 Nguyễn Tuân, Thanh Xuân, HN",
+        "phone": "024 3927 5568 nhánh 9",
+        "location": {
+            "lat": 20.9962324,
+            "lng": 105.8041999
+        }
+    },
+    {
+        "name": "Phòng khám Đa khoa Hồng Ngọc Tố Hữu ",
+        "address": "Tầng 1, HPC Landmark 105, Khu ĐTM Văn Khê, La Khê, Hà Đông, HN",
+        "phone": "024 3927 5568 nhánh 6",
+        "location": {
+            "lat": 20.9761201,
+            "lng": 105.7617629
+        }
+    },
+    {
+        "name": "Phòng khám Medelab ",
+        "address": "86 Nguyễn Lương Bằng",
+        "phone": "1900 6057",
+        "location": {
+            "lat": 21.0169144,
+            "lng": 105.8288204
+        }
+    },
+    {
+        "name": "Phòng khám đa khoa quốc tế Vietsing ",
+        "address": "Pacific Place 83B Lý Thường Kiệt, Hoàn Kiếm, Hà Nội ",
+        "phone": "024 3943 8888",
+        "location": {
+            "lat": 21.0249117,
+            "lng": 105.8433693
+        }
+    },
+    {
+        "name": "Phòng khám Đa khoa Ngọc Khánh",
+        "address": "Số 140 Chùa Láng, P. Láng Thượng, Đống Đa, Hà Nội",
+        "phone": "024 3775 4527",
+        "location": {
+            "lat": 21.0229786,
+            "lng": 105.8011256
+        }
+    },
+    {
+        "name": "Phòng Khám Bác Sỹ Gia Đình Chân Trời Mới ",
+        "address": "Tầng 2, TTTM Mandarin Garden 2,  Phường Tân Mai, Quận Hoàng Mai, Hà Nội. ",
+        "phone": "024 7306 1668",
+        "location": {
+            "lat": 20.9839269,
+            "lng": 105.847865
+        }
+    },
+    {
+        "name": "Phòng khám Bác Sỹ Gia Đình Doctor4U ",
+        "address": "Tầng 2, Tòa Imperial Suites, 71 Vạn Phúc, Ba Đình, TP. Hà Nội ",
+        "phone": "024 3221 2212",
+        "location": {
+            "lat": 21.0334857,
+            "lng": 105.8168368
+        }
+    },
+    {
+        "name": "Nha khoa Quốc Tế Vietsing ",
+        "address": "Số 1 Nguyễn Du, Bùi Thị Xuân, Hai Bà Trưng, Hà Nội ",
+        "phone": "024 3685 6789",
+        "location": {
+            "lat": 21.0182133,
+            "lng": 105.8514952
+        }
+    },
+    {
+        "name": "Nha khoa Nguyễn Du ",
+        "address": "Số 2 Nguyễn Du, P.Bùi Thị Xuân, Q.Hoàn Kiếm, Hà Nội ",
+        "phone": "024 3943 2658",
+        "location": {
+            "lat": 21.0169192,
+            "lng": 105.8498238
+        }
+    },
+    {
+        "name": "Nha khoa Shinbi ",
+        "address": "Số 33 Trần Quốc Toản, Hoàn Kiếm, Hà Nội",
+        "phone": "0988001889 / 19000215",
+        "location": {
+            "lat": 21.0196345,
+            "lng": 105.8491782
+        }
+    },
+    {
+        "name": "Nha khoa Navii ",
+        "address": "Số 42 Cửa Đông, Hàng Mã, Hoàn Kiếm, Hà Nội",
+        "phone": "024.3747.8292 ",
+        "location": {
+            "lat": 21.034919,
+            "lng": 105.8451412
+        }
+    },
+    {
+        "name": "Nha Khoa Trend Smile ",
+        "address": "Số 257, phố Huế, Phường Phố Huế, Quận Hai Bà Trưng, Thành phố Hà Nội",
+        "phone": "0966.216.566 / 0868.095.656",
+        "location": {
+            "lat": 21.0115597,
+            "lng": 105.851736
+        }
+    },
+    {
+        "name": "Nha khoa Kim cơ sở 18 ",
+        "address": "162A Tôn Đức Thắng, Phường Hàng Bột, Quận Đống Đa, Thành phố Hà Nội",
+        "phone": "19006899",
+        "location": {
+            "lat": 21.0245496,
+            "lng": 105.8325995
+        }
+    },
+    {
+        "name": "Bệnh viện 199 - Bộ Công An",
+        "address": "216 Nguyễn Công Trứ, An Hải Bắc, Sơn Trà, Đà Nẵng",
+        "phone": "1900 986868",
+        "location": {
+            "lat": 16.066563,
+            "lng": 108.2359523
+        }
+    },
+    {
+        "name": "Bệnh viện đa khoa tâm trí Đà Nẵng ",
+        "address": "Số 64,cách mạng tháng 8, Khuê trung, cẩm lệ",
+        "phone": "0236 3679 555",
+        "location": {
+            "lat": 16.0229004,
+            "lng": 108.2141207
+        }
+    },
+    {
+        "name": "Bệnh viện Hoàn Mỹ Đà Nẵng",
+        "address": "161 Nguyễn Văn Linh - Thạc Gián-Thanh Khê",
+        "phone": "0236 3650 676",
+        "location": {
+            "lat": 16.0594983,
+            "lng": 108.2100896
+        }
+    },
+    {
+        "name": "Bệnh viện đa khoa gia đình Đà Nẵng ",
+        "address": "Số 73 Nguyễn Hữu Thọ, Hòa Thuận Tây",
+        "phone": "1900 2250",
+        "location": {
+            "lat": 16.0538077,
+            "lng": 108.2089963
+        }
+    },
+    {
+        "name": "Bệnh viện đa khoa Bình Dân ",
+        "address": "376 Trần Cao Vân, P Xuân Hà, Thanh Khê",
+        "phone": "02363 714030/ 0914 110 818",
+        "location": {
+            "lat": 16.0714124,
+            "lng": 108.2000818
+        }
+    },
+    {
+        "name": "Bệnh viện Đà Nẵng",
+        "address": "124 Hải Phòng, Thạch Thang, Hải Châu",
+        "phone": "0236 3821 118",
+        "location": {
+            "lat": 16.0721748,
+            "lng": 108.2160638
+        }
+    },
+    {
+        "name": "Bệnh viện đa khoa quốc tế Vinmec CN Đà Nẵng ",
+        "address": "Đường 30/4, Khu dân cư số 4 Nguyễn Tri Phương, P.Hòa Cường Bắc, Hải Châu, Đà Nẵng ",
+        "phone": "0236 3711 111",
+        "location": {
+            "lat": 16.0566817,
+            "lng": 108.206953
+        }
+    },
+    {
+        "name": "Bệnh viện Thiện Nhân Đà Nẵng ",
+        "address": "276-276 Đống Đa, P. Thanh Bình, Q.Hải Châu, Đà Nẵng ",
+        "phone": "0236 3568 988",
+        "location": {
+            "lat": 16.0765671,
+            "lng": 108.2155694
+        }
+    },
+    {
+        "name": "Bệnh viện ĐH Y Dược 1 Thành Phố Hồ Chí Minh ",
+        "address": "215 Hồng Bàng, Phường 11, Quận 5, TPHCM",
+        "phone": "028 3855 4269",
+        "location": {
+            "lat": 10.7552962,
+            "lng": 106.6644085
+        }
+    },
+    {
+        "name": "Bệnh viện ĐH Y Dược 2 Thành Phố Hồ Chí Minh",
+        "address": "201 Nguyễn Chí Thanh, Phường 12, Quận 5, TPHCM ",
+        "phone": "028 3955 5548",
+        "location": {
+            "lat": 10.7579003,
+            "lng": 106.6611384
+        }
+    },
+    {
+        "name": "Bệnh viện Đại học Y Dược TPHCM – Cơ sở 3",
+        "address": "221B Hoàng Văn Thụ, Phường 8, Quận Phú Nhuận, TP. HCM 221B Hoang Van Thu, Ward 8, Phu Nhuan District, City. Ho Chi Minh City",
+        "phone": "028 3844 4771",
+        "location": {
+            "lat": 10.799399,
+            "lng": 106.670867
+        }
+    },
+    {
+        "name": "Bệnh viện Từ Dũ TP HCM ",
+        "address": "Số 284 Cống Quỳnh, phường Phạm Ngũ Lão, quận 1, TP HCM",
+        "phone": "(08) 5.4042.829",
+        "location": {
+            "lat": 10.7688409,
+            "lng": 106.6858738
+        }
+    },
+    {
+        "name": "Bệnh viện Nhi đồng thành phố ",
+        "address": "15 Võ Trần Chí , Xã Tân Kiên, Huyện Bình Chánh, tp HCM ",
+        "phone": "1900 1217",
+        "location": {
+            "lat": 10.7096251,
+            "lng": 106.5738758
+        }
+    },
+    {
+        "name": "Bệnh viện An Bình",
+        "address": "146 An Bình, phường 7, quận 5, TP HCM",
+        "phone": "028 3923 4260",
+        "location": {
+            "lat": 10.7538064,
+            "lng": 106.6717467
+        }
+    },
+    {
+        "name": "Bệnh viện Sài Gòn - ITO (Công ty Cổ phần Bệnh viện Quốc tế Chấn thương chỉnh hình Sài Gòn)",
+        "address": "305 Lê Văn Sỹ, Phường 1, Quận Tân Bình, HCM",
+        "phone": "(7h00-16h30) 028.3991 2030 - Cấp cứu (24/24): 028.3991 2029",
+        "location": {
+            "lat": 10.7948684,
+            "lng": 106.6671137
+        }
+    },
+    {
+        "name": "Bệnh viện Quốc Ánh ",
+        "address": "104-110 Đường 54 KDC Tân Tạo, Phường Tân Tạo, Quận Bình Tân, TP HCM",
+        "phone": "(028) 54073878 / (028) 54073879",
+        "location": {
+            "lat": 10.7659309,
+            "lng": 106.5691074
+        }
+    },
+    {
+        "name": "Bệnh viện An Sinh ",
+        "address": "10 Trần Huy Liệu, P.12, Q.3",
+        "phone": "028 38457777",
+        "location": {
+            "lat": 10.7910586,
+            "lng": 106.6786412
+        }
+    },
+    {
+        "name": "Bệnh viện Quốc tế Columbia Sài Gòn ",
+        "address": "8 Alexander de Rhodes, P.Bến Nghé, Quận 1, TP Hồ Chí Minh ",
+        "phone": "028 3823 8888",
+        "location": {
+            "lat": 10.779603,
+            "lng": 106.696552
+        }
+    },
+    {
+        "name": "Bệnh viện Quốc tế Columbia Gia Định ",
+        "address": "01 No Trang Long , Phường 7, Quận Binh Thanh",
+        "phone": "028 3803 0678",
+        "location": {
+            "lat": 10.803104,
+            "lng": 106.6945907
+        }
+    },
+    {
+        "name": "Bệnh viện Quốc tế City ",
+        "address": "Số 3, Đường 17A, Phường Bình Trị Đông B, Quận Bình Tân, Tp. Hồ Chí Minh",
+        "phone": "028 6280 3333",
+        "location": {
+            "lat": 10.7409663,
+            "lng": 106.609145
+        }
+    },
+    {
+        "name": "Bệnh viện đa khoa quốc tế Vinmec Central Park ",
+        "address": "208 Nguyễn Hữu Cảnh, Phường 22, Bình Thạnh, Thành phố Hồ Chí Minh",
+        "phone": "028 3622 1166",
+        "location": {
+            "lat": 10.7955416,
+            "lng": 106.7191682
+        }
+    },
+    {
+        "name": "Bệnh viên Hoàn Mỹ Sài Gòn ",
+        "address": "Tầng 1, 60-60A Phan Xích Long, quận Phú Nhuận, Thành phố Hồ Chí Minh",
+        "phone": "028 3990 2468",
+        "location": {
+            "lat": 10.8001389,
+            "lng": 106.6842598
+        }
+    },
+    {
+        "name": "Bệnh viện Răng Hàm Mặt Sài Gòn",
+        "address": "1256-1258 Võ Văn Kiệt, P10, Q5, HCM",
+        "phone": "1800 6836",
+        "location": {
+            "lat": 10.7495372,
+            "lng": 106.6612201
+        }
+    },
+    {
+        "name": "Công ty TNHH Bệnh viện Gia An 115 Gia An ",
+        "address": "Số 05, đường 17A, khu phố 11, phường Bình Trị Đông B, quận Bình Tân, TP Hồ Chí Minh ",
+        "phone": "1800 9045",
+        "location": {
+            "lat": 10.7411747,
+            "lng": 106.6080266
+        }
+    },
+    {
+        "name": "Bệnh viện Đa khoa quốc tế Vũ Anh ",
+        "address": "15-16 Phan Văn Trị, P7, Gò Vấp, TPHCM",
+        "phone": "028 3989 4989",
+        "location": {
+            "lat": 10.8286798,
+            "lng": 106.6855966
+        }
+    },
+    {
+        "name": "Bệnh viện Đa khoa Quốc Ánh ",
+        "address": "Số 104-110 đường 54, KDC Tân Tạo, P.Tân Tạo, Q.Bình Tân, TP.HCM",
+        "phone": "028 5407 3878",
+        "location": {
+            "lat": 10.7719073,
+            "lng": 106.5863486
+        }
+    },
+    {
+        "name": "Bệnh viện Đa khoa Hồng Đức III ",
+        "address": "Số 32/2 Thống Nhất, Phường 10, Quận Gò Vấp, Tp. Hồ Chí Minh",
+        "phone": "028 3996 9999",
+        "location": {
+            "lat": 10.8329468,
+            "lng": 106.6645673
+        }
+    },
+    {
+        "name": "Bệnh viện FV",
+        "address": "6 Nguyễn Lương Bằng, Nam Sài Gòn (Phú Mỹ Hưng), Quận 7, Tp. Hồ Chí Minh",
+        "phone": "(028) 54 11 33 33",
+        "location": {
+            "lat": 10.7247634,
+            "lng": 106.7232796
+        }
+    },
+    {
+        "name": "Bệnh viện Quốc Tế Mỹ ",
+        "address": "Số  6,  Bắc  Nam  3,  Phường  An Phú, Quận 2, TP.Hồ Chí Minh ",
+        "phone": "028 3910 9999",
+        "location": {
+            "lat": 10.8041901,
+            "lng": 106.7787482
+        }
+    },
+    {
+        "name": "Bệnh viện Đa khoa Quốc tế Nam Sài Gòn",
+        "address": "Số 88, Đường số 8, KDC Trung Sơn, BÌnh Hưng, Bình Chánh, HCM",
+        "phone": "1800 6767",
+        "location": {
+            "lat": 10.736113,
+            "lng": 106.6908018
+        }
+    },
+    {
+        "name": "Bệnh viện Đa khoa Vạn Hạnh ",
+        "address": "781/B1-B3-B5 Lê Hồng Phong nối dài, P.12, Q.10, Tp.HCM",
+        "phone": "(+84) 028 3863 2553/  (+84) 028 3863 2554",
+        "location": {
+            "lat": 10.7759127,
+            "lng": 106.6711941
+        }
+    },
+    {
+        "name": "Bệnh viện Hùng Vương ",
+        "address": "128 Hồng Bàng, phường 12, quận 5, HCM",
+        "phone": "(84-8) 3 8558532",
+        "location": {
+            "lat": 10.756555,
+            "lng": 106.6618178
+        }
+    },
+    {
+        "name": "CÔNG TY CỔ PHẦN BỆNH VIỆN ĐA KHOA QUỐC TẾ HOÀN MỸ THỦ ĐỨC",
+        "address": "241 Quốc lộ 1K, phường Linh Xuân, Tp.Thủ Đức, Tp.Hồ Chí Minh",
+        "phone": "1900 0119",
+        "location": {
+            "lat": 10.8866224,
+            "lng": 106.7735292
+        }
+    },
+    {
+        "name": "Công ty TNHH Bệnh viện Đa khoa Tâm trí Sài Gòn Công ty TNHH Bệnh viện Đa khoa Tâm trí Sài Gòn",
+        "address": "171/3 Trường Chinh, P.Tân Thới Nhất, Quận 12, TP.HCM ",
+        "phone": "+84 28 6260 1100",
+        "location": {
+            "lat": 10.8317732,
+            "lng": 106.6218259
+        }
+    },
+    {
+        "name": "Phòng khám quốc tế Columbia Asia - Sài Gòn ",
+        "address": "08 Alexandre de Rhodes, Quận 1",
+        "phone": "028 3823 8888",
+        "location": {
+            "lat": 10.7794725,
+            "lng": 106.6966904
+        }
+    },
+    {
+        "name": "Phòng khám Victoria HealthCare 1 ",
+        "address": "135 Nguyễn Văn Trỗi, Quận Phú Nhuận",
+        "phone": "028 3910 4545",
+        "location": {
+            "lat": 10.7942635,
+            "lng": 106.6772363
+        }
+    },
+    {
+        "name": "Phòng khám  Victoria HealthCare 2 ",
+        "address": "20-20Bis-22 Đinh Tiên Hoàng, Phường Đa Kao, Quận 1",
+        "phone": "028 3910 4545",
+        "location": {
+            "lat": 10.7890226,
+            "lng": 106.6992263
+        }
+    },
+    {
+        "name": "Phòng khám  Victoria HealthCare 3 ",
+        "address": "1056 Nguyễn Văn Linh, Sky Garden 1, Phú Mỹ Hưng, Quận 7",
+        "phone": "028 3910 4545",
+        "location": {
+            "lat": 10.7293004,
+            "lng": 106.7063521
+        }
+    },
+    {
+        "name": "Phòng khám  Victoria HealthCare 4 ",
+        "address": "37-39 Lương Định Của, Bình An, Quận 2",
+        "phone": "028 3910 4545",
+        "location": {
+            "lat": 10.7867932,
+            "lng": 106.7324889
+        }
+    },
+    {
+        "name": "Phòng khám Đa khoa Quốc tế Vinmec Sài Gòn ",
+        "address": "2-2 Bis Trần Cao Vân, P.Đa Kao, Q.1",
+        "phone": "028 3622 1166",
+        "location": {
+            "lat": 10.784067,
+            "lng": 106.6972884
+        }
+    },
+    {
+        "name": "Phòng khám đa khoa Quốc tế Golden Healthcare ",
+        "address": "Số 37 Hoàng Hoa Thám, P. 13, Q.Tân Bình, Tp.HCM",
+        "phone": "0369 031 818",
+        "location": {
+            "lat": 10.7992739,
+            "lng": 106.6471473
+        }
+    },
+    {
+        "name": "Phòng Khám Đa khoa CHAC1",
+        "address": "Số 110A Ngô Quyền, Phường 8, Quận 5, TP.HCM",
+        "phone": " (028)39 574 933",
+        "location": {
+            "lat": 10.7544743,
+            "lng": 106.6665963
+        }
+    },
+    {
+        "name": "Phòng khám Đa khoa Pacific",
+        "address": "4-4B Lê Quý Đôn, Phường 06, Quận 3, Thành phố Hồ Chí Minh",
+        "phone": "028 7304 2668",
+        "location": {
+            "lat": 10.7797033,
+            "lng": 106.6927491
+        }
+    },
+    {
+        "name": "Phòng Khám Diag (Lab Group International Việt Nam) ",
+        "address": "414-416-418-420 Cao Thắng, P12, Q10, Hồ Chí Minh",
+        "phone": "1900 1717",
+        "location": {
+            "lat": 10.7750665,
+            "lng": 106.6726706
+        }
+    },
+    {
+        "name": "Phòng khám Bệnh viện Đại Học Y Dược I",
+        "address": "20-22 Dương Quang Trung, Phường 12, Quận 10, TP.HCM ",
+        "phone": "19006923",
+        "location": {
+            "lat": 10.7742889,
+            "lng": 106.667569
+        }
+    },
+    {
+        "name": "Phòng khám Đa khoa JIO Health ",
+        "address": "83B Hoàng Sa, P. Đa Kao, Quân 1, TP HCM",
+        "phone": "1900636893",
+        "location": {
+            "lat": 10.792455,
+            "lng": 106.7020646
+        }
+    },
+    {
+        "name": "Phòng Khám SIH SIH clinic",
+        "address": "Số 7, Phố Garden Plaza1, P. Tân Phong, Q7, HCM",
+        "phone": "",
+        "location": {
+            "lat": 10.722559,
+            "lng": 106.713313
+        }
+    },
+    {
+        "name": "Phòng khám Sim Medical Center ",
+        "address": "RS05-SH02, RS07-SH01,Richstar Residence, Số 239-241 Hòa Bình, Hiệp Tân, Tân Phú, HCM",
+        "phone": "028 7778 8555",
+        "location": {
+            "lat": 10.7721517,
+            "lng": 106.625893
+        }
+    },
+    {
+        "name": "Phòng khám Đa khoa Hoàn Mỹ Sài Gòn ",
+        "address": "4A Hoàng Việt, Phường 4, Quận Tân Bình, HCM",
+        "phone": "(028) 3990 2468",
+        "location": {
+            "lat": 10.7977292,
+            "lng": 106.6587109
+        }
+    },
+    {
+        "name": "Phòng khám Quốc tế Careplus Tân Bình",
+        "address": "Số 107 Tân Hải, phường 13, quận Tân Bình, TP Hồ Chí Minh",
+        "phone": "028 7300 3223",
+        "location": {
+            "lat": 10.802558,
+            "lng": 106.6384443
+        }
+    },
+    {
+        "name": "Phòng khám Quốc tế Careplus Quận 7 ",
+        "address": "Lầu 2, tòa nhà Crescent Plaza, 105 Tôn Dật Tiên, phường Tân Phú, quận 7, TP HCM",
+        "phone": "028 7308 0088",
+        "location": {
+            "lat": 10.7271995,
+            "lng": 106.7204554
+        }
+    },
+    {
+        "name": "Phòng khám Quốc tế Careplus Quận 1 ",
+        "address": "66-68 Nam Kỳ Khởi Nghĩa, phường Nguyễn Thái Bình, quận 1, HCM",
+        "phone": "028 7305 4668",
+        "location": {
+            "lat": 10.770069,
+            "lng": 106.70169
+        }
+    },
+    {
+        "name": "Nha khoa 3-2",
+        "address": "74 đường 3.2, P.12, Q.10",
+        "phone": "028 386 27991 – 028 386 58571.",
+        "location": {
+            "lat": null,
+            "lng": null
+        }
+    },
+    {
+        "name": "Nha khoa 2000 1",
+        "address": "99 Hồ Hảo Hớn, P. Cô Giang, Q.1",
+        "phone": "1900 7799 20(028) 5409 2000",
+        "location": {
+            "lat": 10.7626229,
+            "lng": 106.691085
+        }
+    },
+    {
+        "name": "Nha khoa 2000 2",
+        "address": "502 Ngô Gia Tự, Phường 9, Q.5 ",
+        "phone": "(028) 3957 0304(028) 3957 0304",
+        "location": {
+            "lat": 10.758917,
+            "lng": 106.6681963
+        }
+    },
+    {
+        "name": "Nha khoa Kỹ thuật số ",
+        "address": "62 Đặng Dung, P. Tân Định, Q. 1",
+        "phone": "0917 220 409 / (028) 38 48 3227",
+        "location": {
+            "lat": 10.7923779,
+            "lng": 106.6881574
+        }
+    },
+    {
+        "name": "Nha khoa Saido 1 Saido ",
+        "address": "258 Huỳnh Văn Bánh, P.11, Q. Phú Nhuận",
+        "phone": "090 364 75 55",
+        "location": {
+            "lat": 10.7918124,
+            "lng": 106.6749378
+        }
+    },
+    {
+        "name": "Nha khoa Saido  Tân Phú",
+        "address": "15 Dương Đức Hiền, P. Tây Thạnh, Tân Phú, HCM",
+        "phone": "0283 997 3373",
+        "location": {
+            "lat": 10.807672,
+            "lng": 106.6273461
+        }
+    },
+    {
+        "name": "Nha khoa Ánh Sao",
+        "address": "2 Bis Công Trường Quốc Tế, P.6, Q.3",
+        "phone": "028 38 22 62 22 / 02838 23 92 94",
+        "location": {
+            "lat": 10.782259,
+            "lng": 106.6958789
+        }
+    },
+    {
+        "name": "Nha khoa Asean ",
+        "address": "282-284 Phan Xích Long, P.2, Q. Phú Nhuận",
+        "phone": "0903 625 088",
+        "location": {
+            "lat": 10.7971982,
+            "lng": 106.6914405
+        }
+    },
+    {
+        "name": "Nha khoa Sakura ",
+        "address": "69 (R4 -14) Lê Văn Thiêm, Hưng Phước 3, phường Tân Phong, quận 7, HCM",
+        "phone": "028.5415.6868",
+        "location": {
+            "lat": 10.7312617,
+            "lng": 106.7098503
+        }
+    },
+    {
+        "name": "Nha Khoa NO. 1 ",
+        "address": "51 Đường 3 tháng 2, phường 11 quận 10, TP HCM",
+        "phone": " 028 3929 0909",
+        "location": {
+            "lat": 10.7743872,
+            "lng": 106.6789147
+        }
+    },
+    {
+        "name": "Nha khoa Minh Khai ",
+        "address": "199 Nguyễn Thị Minh Khai, Phường Nguyễn Cư Trinh, Quận 1, thành phố Hồ Chí Minh ",
+        "phone": "1800 2080",
+        "location": {
+            "lat": 10.7679024,
+            "lng": 106.6844023
+        }
+    },
+    {
+        "name": "Nha khoa Ánh Sao An Phú ",
+        "address": "24 Thảo Điền, phường Thảo Điền, quận 2, thành phố Hồ Chí Minh",
+        "phone": "02862 82 88 22/ 02862 65 88 22",
+        "location": {
+            "lat": 10.8042455,
+            "lng": 106.7372396
+        }
+    },
+    {
+        "name": "Nha khoa Nụ cười ",
+        "address": "112 Phan Đình Phùng, Phường 2, quận Phú Nhuận, TP HCM",
+        "phone": "028 39950848",
+        "location": {
+            "lat": 10.794623,
+            "lng": 106.683717
+        }
+    },
+    {
+        "name": "Nha khoa Kim cơ sở 1",
+        "address": "101 Sương Nguyệt Ánh, P. Bến Thành, Quận 1, TP.HCM",
+        "phone": "19006899",
+        "location": {
+            "lat": 10.77063,
+            "lng": 106.6881721
+        }
+    },
+    {
+        "name": "Nha khoa Kim cơ sở 2 ",
+        "address": "31 Nguyễn Đình Chiểu, P. Đa Kao, Quận 1, TP.HCM",
+        "phone": "19006899",
+        "location": {
+            "lat": 10.7862642,
+            "lng": 106.6976161
+        }
+    },
+    {
+        "name": "Nha khoa Kim cơ sở 3 ",
+        "address": "33 Đinh Tiên Hoàng, Phường 3, Quận Bình Thạnh, TP.HCM ",
+        "phone": "19006899",
+        "location": {
+            "lat": 10.797047,
+            "lng": 106.6940991
+        }
+    },
+    {
+        "name": "Nha khoa Kim cơ sở 4 ",
+        "address": "304 Cộng Hòa, Phường 13, Quận Tân Bình, TP.HCM ",
+        "phone": "19006899",
+        "location": {
+            "lat": 10.8022355,
+            "lng": 106.6462736
+        }
+    },
+    {
+        "name": "Nha khoa Kim cơ sở 5 ",
+        "address": "396-398 Đường 3 tháng 2, Phường 12, Quận 10, TP.HCM",
+        "phone": "19006899",
+        "location": {
+            "lat": 10.7692887,
+            "lng": 106.6694981
+        }
+    },
+    {
+        "name": "Nha khoa Kim cơ sở 6",
+        "address": "43-45 Đường An Dương Vương, Phường 08, Quận 5, TP.HCM",
+        "phone": "19006899",
+        "location": {
+            "lat": 10.7570761,
+            "lng": 106.6727814
+        }
+    },
+    {
+        "name": "Nha khoa Kim cơ sở 7 ",
+        "address": "02 Đường Nguyễn Oanh, Phường 7, Quận Gò Vấp, TP.HCM",
+        "phone": "19006899",
+        "location": {
+            "lat": 10.8268111,
+            "lng": 106.6800144
+        }
+    },
+    {
+        "name": "Nha khoa Kim cơ sở 8",
+        "address": "345 Đường Lê Văn Sỹ, Phường 13, Quận 3, TP.HCM",
+        "phone": "19006899",
+        "location": {
+            "lat": 10.7882018,
+            "lng": 106.6770515
+        }
+    },
+    {
+        "name": "Nha khoa Kim cơ sở 9 ",
+        "address": "493 Nguyễn Thị Thập, Phường Tân Phong, Quận 7, TP.HCM ",
+        "phone": "19006899",
+        "location": {
+            "lat": 10.7389124,
+            "lng": 106.7085571
+        }
+    },
+    {
+        "name": "Nha khoa Kim cơ sở 10 ",
+        "address": "366 A25 - 366 A26 Phan Văn Trị, Phường 5, Quận Gò Vấp, TP.HCM",
+        "phone": "19006899",
+        "location": {
+            "lat": 10.8257472,
+            "lng": 106.690017
+        }
+    },
+    {
+        "name": "Nha khoa Kim cơ sở 11 ",
+        "address": "285 Đường Cách Mạng Tháng Tám, Phường 12, Quận 10, TP.HCM",
+        "phone": "19006899",
+        "location": {
+            "lat": 10.7771256,
+            "lng": 106.6800236
+        }
+    },
+    {
+        "name": "Nha khoa Kim cơ sở 12 ",
+        "address": "46A Võ Văn Ngân, Phường Trường Thọ, Quận Thủ Đức, TP.HCM",
+        "phone": "19006899",
+        "location": {
+            "lat": 10.8511376,
+            "lng": 106.7570506
+        }
+    },
+    {
+        "name": "Nha khoa Kim cơ sở 20 ",
+        "address": "357 Phan Xích Long, Phường 3, Q. Phú Nhuận, TP.HCM",
+        "phone": "19006899",
+        "location": {
+            "lat": 10.8014534,
+            "lng": 106.683092
+        }
+    },
+    {
+        "name": "Nha khoa Vinh An ",
+        "address": "438 Hoàng Văn Thụ, Phường 4, Quận Tân Bình, HCM",
+        "phone": "19006899",
+        "location": {
+            "lat": 10.795711,
+            "lng": 106.655779
+        }
+    },
+    {
+        "name": "Nha khoa Kim cơ sở 21 ",
+        "address": "586A Lũy Bán Bích, Phường Hòa Thạnh, Quận Tân Phú, Tp. Hồ Chí Minh",
+        "phone": "19006899",
+        "location": {
+            "lat": 10.7865536,
+            "lng": 106.6368674
+        }
+    },
+    {
+        "name": "Bệnh viện Columbia Asia Bình Dương",
+        "address": "Khu   Phố   Hòa   Lân,   Phường Thuận Giao, Tỉnh Binh Dương, Việt  Nam.",
+        "phone": " 0274 3819 933",
+        "location": {
+            "lat": 10.9616801,
+            "lng": 106.6949707
+        }
+    },
+    {
+        "name": "Bệnh Viện Hoàn Mỹ Vạn Phúc 1 ",
+        "address": "45 Hồ Văn Cống, Khu phố 4, Tương Bình Hiệp,Thủ Dầu Một ",
+        "phone": "0274 6268 115",
+        "location": {
+            "lat": 11.0043171,
+            "lng": 106.6413804
+        }
+    },
+    {
+        "name": "Bệnh viện Đa Khoa Medic Thuận An , Bình Dương - BD Chi nhánh 2 ",
+        "address": "Ngã Tư Miếu Ông Cù, Bình Chuẩn, Thuận An, Bình Dương",
+        "phone": "02743 889944",
+        "location": {
+            "lat": 10.980108,
+            "lng": 106.7502074
+        }
+    },
+    {
+        "name": "Bệnh viện đa khoa Mỹ Phước ",
+        "address": "TC3, Mỹ Phước, Bến Cát, Bình Dương",
+        "phone": "0274 3535 777",
+        "location": {
+            "lat": 11.1401703,
+            "lng": 106.6071944
+        }
+    },
+    {
+        "name": "Bệnh viện Đa khoa Medic Bình Dương ",
+        "address": "14A Nguyễn An Ninh, Phú Cường, Thủ Dầu Một, Bình Dương",
+        "phone": "0274 3855 997",
+        "location": {
+            "lat": 10.9759347,
+            "lng": 106.6569932
+        }
+    },
+    {
+        "name": "Bệnh viện Quốc tế Becamex ",
+        "address": "Đại lộ Bình Dương, Khu Gò Cát, Phường Lái Thiêu, Thành phố Thuận An, tỉnh Bình Dương ",
+        "phone": "1900 2676",
+        "location": {
+            "lat": 10.9058042,
+            "lng": 106.7126136
+        }
+    },
+    {
+        "name": "Nha khoa Bình Dương TSC Binh Duong Dental Clinic",
+        "address": "494-496 Thủ Dầu Một, Đại lộ Bình Dương, Hiệp Thành, Thủ Dầu Một, Bình Dương",
+        "phone": "0917220517",
+        "location": {
+            "lat": 10.9940796,
+            "lng": 106.6539996
+        }
+    },
+    {
+        "name": "Nha khoa Bình Dương CN Thuận An",
+        "address": "75 Nguyễn Văn Tiết, Lái Thiêu, Thuận An, Bình Dương",
+        "phone": "0912062727",
+        "location": {
+            "lat": 10.9096342,
+            "lng": 106.7021184
+        }
+    },
+    {
+        "name": "Nha khoa Kim cơ sở 13 ",
+        "address": "01 Nguyễn Văn Tiết, Phường Hiệp Thành, Thành phố Thủ Dầu Một, tỉnh Bình Dương ",
+        "phone": "19006899",
+        "location": {
+            "lat": 10.9925224,
+            "lng": 106.6558549
+        }
+    },
+    {
+        "name": "Nha khoa Kim cơ sở 19 ",
+        "address": "191 Phú Lợi, Phường Phú Lợi, Thành phố Thủ Dầu Một, tỉnh Bình Dương",
+        "phone": "19006899",
+        "location": {
+            "lat": 10.9824832,
+            "lng": 106.6734239
+        }
+    },
+    {
+        "name": "Bệnh viện ĐHYD Shing Mark",
+        "address": "Quốc lộ 51, Phường Long Bình Tân, Thành phố Biên Hòa, Đồng Nai",
+        "phone": "0251 3988 888",
+        "location": {
+            "lat": 10.8943462,
+            "lng": 106.8704785
+        }
+    },
+    {
+        "name": "Bệnh viện Đa Khoa Đồng Nai ",
+        "address": "Số 2 - Đồng Khởi - P. Tam Hòa, TP Biên Hòa, Đồng Nai ",
+        "phone": " 096 790 17 17",
+        "location": {
+            "lat": 10.9523354,
+            "lng": 106.866885
+        }
+    },
+    {
+        "name": "Bệnh viện Hoàn Mỹ ITO Đồng Nai ",
+        "address": "F99, Võ Thị Sáu, Phường Thống Nhất, TP.Biên Hòa, T.Đồng Nai",
+        "phone": "1900 989954",
+        "location": {
+            "lat": 10.9485059,
+            "lng": 106.828554
+        }
+    },
+    {
+        "name": "Phòng khám Đa khoa Vạn Thành Sài Gòn -Biên Hòa 1 V",
+        "address": "1535 Phạm Văn Thuận, Kp3, P. Thống Nhất, TP.Biên Hòa, Đồng Nai",
+        "phone": "094 722 86 86",
+        "location": {
+            "lat": 10.9582341,
+            "lng": 106.8343157
+        }
+    },
+    {
+        "name": "Phòng khám Đa khoa Vạn Thành Sài Gòn -Biên Hòa 2",
+        "address": "17/11 CMT8, P.Quang Vinh, TP. Biên Hòa, Đồng Nai ",
+        "phone": "0251 3847 186",
+        "location": {
+            "lat": 10.9471061,
+            "lng": 106.8167839
+        }
+    },
+    {
+        "name": "Phòng khám Đa khoa Vạn Thành Sài Gòn -Thống Nhất",
+        "address": "14/D Phúc Nhạc, Xã Gia Tân 3, Huyện Thống Nhất, Đồng Nai ",
+        "phone": "Không tìm đc SĐT",
+        "location": {
+            "lat": 11.0350878,
+            "lng": 107.172927
+        }
+    },
+    {
+        "name": "Phòng khám Đa khoa Vạn Thành Sài Gòn -Định Quán ",
+        "address": "Số 45 phố 1, X. Phú Lợi, Huyện Định Quán, Đồng Nai No. ",
+        "phone": "Không tìm đc SĐT",
+        "location": {
+            "lat": 11.2236734,
+            "lng": 107.3907968
+        }
+    },
+    {
+        "name": "Nha khoa Kim cơ sở 14 ",
+        "address": "Số 170, Đường 30 tháng 4, Phường Trung Dũng, Thành phố Biên hòa, tỉnh Đồng Nai ",
+        "phone": "19006899",
+        "location": {
+            "lat": 10.95243,
+            "lng": 106.8232161
+        }
+    },
+    {
+        "name": "Nha khoa Kim cơ sở 15",
+        "address": "Số 93A, Nguyễn Ái Quốc, Phường Tân Phong, Thành phố Biên Hòa, tỉnh Đ.Nai",
+        "phone": "19006899",
+        "location": {
+            "lat": 10.9663119,
+            "lng": 106.8511078
+        }
+    },
+    {
+        "name": "Bệnh viện đa khoa quốc tế Vinmec Hạ Long ",
+        "address": "Số 10A, Lê Thánh Tông, Hồng Gai, Hạ Long, Quảng Ninh",
+        "phone": "0203 3828 188",
+        "location": {
+            "lat": 20.951939,
+            "lng": 107.0720002
+        }
+    },
+    {
+        "name": "Bệnh viện đa khoa quốc tế Vinmec Hải Phòng ",
+        "address": "Tổ 31, P. Vĩnh Niệm, Lê Chân, Hải Phòng",
+        "phone": "0225 7309 888",
+        "location": {
+            "lat": 20.8319059,
+            "lng": 106.6439864
+        }
+    },
+    {
+        "name": "Bệnh viện Đại học Y Hải Phòng",
+        "address": "Số 225C Lạch Tray – Ngô Quyền – Hải Phòng",
+        "phone": " 0225 3736 300",
+        "location": {
+            "lat": 20.8370391,
+            "lng": 106.6960182
+        }
+    },
+    {
+        "name": "Bệnh viện đa khoa Quốc tế Hải Phòng ",
+        "address": "124 Nguyễn Đức Cảnh, Cát Dài ",
+        "phone": "0225 3955 888",
+        "location": {
+            "lat": 20.854132,
+            "lng": 106.671994
+        }
+    },
+    {
+        "name": "Bệnh viện đa khoa quốc tế Vinmec Nha Trang ",
+        "address": "42A Trần Phú, Vĩnh Nguyên, Nha Trang, Khánh Hòa",
+        "phone": "0258 3900 168",
+        "location": {
+            "lat": 12.2126328,
+            "lng": 109.2107447
+        }
+    },
+    {
+        "name": "Bệnh viện đa khoa Tâm Trí Nha Trang ",
+        "address": "57-59 Cao Thắng, Phước Long, Nha Trang",
+        "phone": "0258 3887 599",
+        "location": {
+            "lat": 12.2130729,
+            "lng": 109.1950737
+        }
+    },
+    {
+        "name": "Bệnh viện Đa Khoa Sài gòn - Nha Trang ",
+        "address": "Lô 10, khu đô thị Vĩnh Điềm Trung, xã Vĩnh Hiệp, thành phố Nha Trang, tỉnh Khánh Hòa",
+        "phone": "0258 3898 789",
+        "location": {
+            "lat": 12.2575391,
+            "lng": 109.1668221
+        }
+    },
+    {
+        "name": "Phòng Khám Đa Khoa Tín Đức ",
+        "address": "39-41 Trần Quý Cáp, Khánh Hòa",
+        "phone": "058 3813778/ 058 3824414",
+        "location": {
+            "lat": 12.2585098,
+            "lng": 109.0526076
+        }
+    },
+    {
+        "name": "Bệnh viện đa khoa quốc tế Vinmec Phú Quốc",
+        "address": "Khu Bãi Dài, Gành Dầu, Phú Quốc, Kiên Giang",
+        "phone": "0297 3985 588",
+        "location": {
+            "lat": 10.338056,
+            "lng": 103.848618
+        }
+    },
+    {
+        "name": "Bệnh viện Hoàn Mỹ Cửu Long ",
+        "address": "Lô 20, Võ Nguyên Giáp, P. Phú Thứ, Q. Cái Răng, TP.Cần Thơ ",
+        "phone": "02923917901",
+        "location": {
+            "lat": 10.0026506,
+            "lng": 105.8018438
+        }
+    },
+    {
+        "name": "Bệnh viện phụ sản Quốc tế Phương Châu ",
+        "address": "300 Nguyễn Văn Cừ nối dài, P. An Khánh, Q. Ninh Kiều, TP. Cần Thơ, Việt Nam",
+        "phone": "1900 545466",
+        "location": {
+            "lat": 10.0299378,
+            "lng": 105.7510142
+        }
+    },
+    {
+        "name": "Bệnh viện Đa khoa Hòa Hảo - Medic Cần Thơ ",
+        "address": "102 Cách mạng Tháng Tám, Phường Cái Khế, Quận Ninh Kiều, TP Cần Thơ",
+        "phone": "0292 3909 999",
+        "location": {
+            "lat": 10.0548945,
+            "lng": 105.7708216
+        }
+    },
+    {
+        "name": "Bệnh viện quốc tế Thái Nguyên ",
+        "address": "328 Lương Ngọc Quyến, Phan Đình Phùng, Thái Nguyên",
+        "phone": " 0208 3840 115",
+        "location": {
+            "lat": 21.5873692,
+            "lng": 105.8297599
+        }
+    },
+    {
+        "name": "Bệnh viện đa khoa Yên Bình Thái Nguyên ",
+        "address": "Nam Tiến, Phổ Yên, Thái Nguyên",
+        "phone": " 0888 935 115",
+        "location": {
+            "lat": 21.3976123,
+            "lng": 105.8613233
+        }
+    },
+    {
+        "name": "Bệnh viện đa khoa Quốc tế Hoàn Mỹ Đà Lạt ",
+        "address": "Mimosa, Phường 10, Thành Phố Đà Lạt",
+        "phone": "0263 3510 878",
+        "location": {
+            "lat": 11.9113603,
+            "lng": 108.4598616
+        }
+    },
+    {
+        "name": "Bệnh viện đa khoa Tâm Trí Đồng Tháp ",
+        "address": "Số 700, quốc lộ 30, Mỹ Tân, Cao Lãnh, Đồng Tháp",
+        "phone": "0277 3875 993",
+        "location": {
+            "lat": 10.4752819,
+            "lng": 105.6119988
+        }
+    },
+    {
+        "name": "Bệnh viện đa khoa Hoàn Mỹ Minh Hải ",
+        "address": "9, Lạc Long Quân, P7, TP Cà Mau",
+        "phone": "0290 3575 859",
+        "location": {
+            "lat": 91.74266,
+            "lng": 105.1513898
+        }
+    },
+    {
+        "name": "Bệnh viện Quốc Tế Vinh ",
+        "address": "99 Phạm Đình Toai, Nghi Phan, Vinh, Nghệ An",
+        "phone": "0238 3968 888",
+        "location": {
+            "lat": 18.6950504,
+            "lng": 105.6808112
+        }
+    },
+    {
+        "name": "Nhà Thuốc Vũng Tàu ",
+        "address": "207 Nguyễn Văn Trỗi, Phường 4, Tp. Vũng Tàu.",
+        "phone": "Không tìm đc SĐT",
+        "location": {
+            "lat": 10.3588637,
+            "lng": 107.0786562
+        }
+    },
+    {
+        "name": "Phòng khám đa khoa Vũng Tàu",
+        "address": "205-207 Nguyễn Văn Trỗi, Phường 4, Tp Vũng Tàu",
+        "phone": " 0254 3550 699",
+        "location": {
+            "lat": 10.3588239,
+            "lng": 107.0786055
+        }
+    },
+    {
+        "name": "Phòng khám Đa Khoa Vạn Thành Sài Gòn - CN Bà Rịa",
+        "address": "75 Bạch Đằng, Phường Phước Trung, TP Bà Rịa, Vũng Tàu",
+        "phone": "(0254) 371 2186",
+        "location": {
+            "lat": 10.4935478,
+            "lng": 107.1710251
+        }
+    },
+    {
+        "name": "Phòng khám Đa Khoa Vạn Thành Sài Gòn - CN Vũng Tàu ",
+        "address": "55 Lý Thường Kiệt, Phường 1, TP. Vũng Tàu",
+        "phone": "(0254) 385 6186",
+        "location": {
+            "lat": 10.3482961,
+            "lng": 107.0770147
+        }
+    },
+    {
+        "name": "Phòng khám Đa Khoa Vạn Thành Sài Gòn - Tân Thành ",
+        "address": "306 đường Độc Lập, KP Quảng Phú, p. Phúc Mỹ, Tx Phú Mỹ, Vũng Tàu",
+        "phone": "1900 636 615",
+        "location": {
+            "lat": 10.7933021,
+            "lng": 106.627268
+        }
+    },
+    {
+        "name": "Nha khoa Kim cơ sở 17 ",
+        "address": "75 Lê Hồng Phong, Phường 7, Thành phố Vũng Tàu, tỉnh Bà Riạ Vũng Tàu",
+        "phone": "19006899",
+        "location": {
+            "lat": 10.3559761,
+            "lng": 107.0838051
+        }
+    },
+    {
+        "name": "Bệnh viện Đa khoa Vĩnh Đức ",
+        "address": "Quốc lộ 1A, P. Điện Nam Trung, Tx Điện Bàn, Quảng Nam",
+        "phone": "0235 2464 644",
+        "location": {
+            "lat": 15.9020938,
+            "lng": 108.2468521
+        }
+    },
+    {
+        "name": "Bệnh viện Đa khoa Minh Thiện",
+        "address": "101 Phan Bội Châu, P. Tân Thạnh, TP Tam Kỳ, Quảng Nam",
+        "phone": "0235 3888 112",
+        "location": {
+            "lat": 15.5833764,
+            "lng": 108.469655
+        }
+    },
+    {
+        "name": "Nha khoa Sài Gòn Quảng Ngãi ",
+        "address": "706 Quang Trung, Phường Chánh Lộ, TP Quảng Ngãi, tỉnh Quảng Ngãi",
+        "phone": "0255 3837 222",
+        "location": {
+            "lat": 15.1154699,
+            "lng": 108.8074222
+        }
+    },
+    {
+        "name": "Nha khoa Sao Mai",
+        "address": "179 Hùng Vương, Phường Trần Phú, TP Quảng Ngãi, tỉnh Quãng Ngãi",
+        "phone": "0255 3837 799",
+        "location": {
+            "lat": 15.1219336,
+            "lng": 108.7933132
+        }
+    },
+    {
+        "name": "Bệnh viện Đa khoa Chất lượng Cao Tỉnh Thái Bình ",
+        "address": "Số 104 đường Phan Bá Vành, p. Quang Trung, TP Thái Bình ",
+        "phone": " 02273800666/  02273800999",
+        "location": {
+            "lat": 20.4392402,
+            "lng": 106.3376746
+        }
+    },
+    {
+        "name": "Bệnh viện đa khoa tỉnh Phú Thọ ",
+        "address": "Đường Nguyễn Tất Thành, Tân Dân, Việt Trì, Phú Thọ",
+        "phone": "1800888989",
+        "location": {
+            "lat": 21.3225503,
+            "lng": 105.4004699
+        }
+    },
+    {
+        "name": "Bệnh viện 74 Trung ương ",
+        "address": "Phường Hùng Vương, TP Phúc Yên, Vĩnh Phúc",
+        "phone": " 0211 3502 027",
+        "location": {
+            "lat": 21.2267052,
+            "lng": 105.7087128
+        }
+    },
+    {
+        "name": "Bệnh viện Hữu Nghị Lạc Việt ",
+        "address": "Đường Nguyễn Tất Thành, xã Định Trung, TP. Vĩnh Yên, Vĩnh Phúc",
+        "phone": "19001269",
+        "location": {
+            "lat": 21.318102,
+            "lng": 105.5895942
+        }
+    },
+    {
+        "name": "Phòng khám Đa Khoa Tư Nhân Hoa Lư - Hà Nội ",
+        "address": "44 Đường Tuệ Tĩnh, phố Phúc Chỉnh 2, P. Nam Thành, TP Ninh Bình",
+        "phone": "0302244888",
+        "location": {
+            "lat": 20.2454642,
+            "lng": 105.9679566
+        }
+    },
+    {
+        "name": "Bệnh viện Đa khoa Hợp Lực ",
+        "address": "Số 595, Nguyễn Chí Thanh, P.Đông Thọ, Thanh Hóa  ",
+        "phone": "0237 3713 713",
+        "location": {
+            "lat": 19.8276101,
+            "lng": 105.778698
+        }
+    },
+    {
+        "name": "Nha khoa Kim cơ sở 16 ",
+        "address": "304A Lý Thường Kiệt, Phường 5, Thành phố Mỹ Tho, tỉnh Tiền Giang",
+        "phone": "19006899",
+        "location": {
+            "lat": 10.3615565,
+            "lng": 106.3523463
+        }
+    },
+    {
+        "name": "Bệnh viện Hoàn Mỹ Bình Phước ",
+        "address": "Ấp 3, xã Tiến Hưng, thành phố Đồng Xoài, tỉnh Bình Phước ",
+        "phone": " 0271 3897 997",
+        "location": {
+            "lat": 11.4890578,
+            "lng": 106.880688
+        }
+    },
+    {
+        "name": "Phòng khám Đa khoa 102 Phạm Văn Đồng ",
+        "address": "102 Phạm Văn Đồng, phường Vỹ Dạ, thành phố Huế, tỉnh Thừa Thiên Huế",
+        "phone": "0234 3896 896",
+        "location": {
+            "lat": 16.4819148,
+            "lng": 107.6023659
+        }
+    },
+    {
+        "name": "Bệnh viện Chấn Thương Chính Hình - Phẫu thuật tạo hình Huế",
+        "address": "102 Phạm Văn Đồng, phường Vỹ Dạ, thành phố Huế, tỉnh Thừa Thiên Huế",
+        "phone": "0234 3896 896",
+        "location": {
+            "lat": 16.4819148,
+            "lng": 107.6023659
+        }
+    }
+]

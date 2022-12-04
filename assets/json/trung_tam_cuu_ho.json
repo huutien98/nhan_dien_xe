@@ -1,0 +1,26 @@
+[
+    {
+        "name": "Ban Dự án 2 - MIC",
+        "address": "Số 3 Liễu Giai - Phường Cống Vị - Ba Đình - Hà Nội",
+        "location": {
+            "lat": 21.030127,
+            "lng": 105.828669
+        }
+    },
+    {
+        "name": "Công Ty Bảo Hiểm MIC Nam Bình Dương",
+        "address": "A29 khu Shophouse 79 DT 743B Khu Phố Thống Nhất 1 phường Dĩ An TP Dĩ An Tỉnh Bình Dương",
+        "location": {
+            "lat": 21.027694,
+            "lng": 105.827971
+        }
+    },
+    {
+        "name": "00 - Tổng công ty cổ phần Bảo hiểm Quân đội (MIC)",
+        "address": "229 Tây Sơn",
+        "location": {
+            "lat": 21.027974,
+            "lng": 105.830021
+        }
+    }
+]

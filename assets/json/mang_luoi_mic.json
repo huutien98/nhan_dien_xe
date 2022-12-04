@@ -1,0 +1,578 @@
+[
+    {
+        "name": "Ban Dự án 2 - MIC",
+        "address": "Số 3 Liễu Giai - Phường Cống Vị - Ba Đình - Hà Nội",
+        "location": {
+            "lat": 21.035462,
+            "lng": 105.8146967
+        }
+    },
+    {
+        "name": "Công Ty Bảo Hiểm MIC Nam Bình Dương",
+        "address": "A29 khu Shophouse 79 DT 743B Khu Phố Thống Nhất 1 phường Dĩ An TP Dĩ An Tỉnh Bình Dương",
+        "location": {
+            "lat": 10.9087574,
+            "lng": 106.7412233
+        }
+    },
+    {
+        "name": "00 - Tổng công ty cổ phần Bảo hiểm Quân đội (MIC)",
+        "address": "229 Tây Sơn",
+        "location": {
+            "lat": 21.0055003,
+            "lng": 105.823751
+        }
+    },
+    {
+        "name": "Công ty Bảo hiểm MIC Quảng Ninh",
+        "address": "Tổ 66, Khu 3 P.Hồng Gai, TP.Hạ Long, Quảng Ninh",
+        "location": {
+            "lat": 20.9573786,
+            "lng": 107.0837772
+        }
+    },
+    {
+        "name": "Công ty Bảo hiểm MIC Bắc Giang",
+        "address": "Số 46 đường Hùng Vương P. Ngô Quyền TP. Bắc Giang tỉnh Bắc Giang",
+        "location": {
+            "lat": 21.2794852,
+            "lng": 106.1985422
+        }
+    },
+    {
+        "name": "Công ty Bảo hiểm MIC Lào Cai",
+        "address": "Số 009 Hoàng Liên, Phường Cốc Lếu, TP.Lào Cai, Tỉnh Lào Cai",
+        "location": {
+            "lat": 22.4943591,
+            "lng": 103.9682764
+        }
+    },
+    {
+        "name": "Công Ty Bảo Hiểm MIC Hà Tĩnh",
+        "address": "80 Phan Đình Phùng Nam Hà Hà Tĩnh",
+        "location": {
+            "lat": 18.3399887,
+            "lng": 105.90411
+        }
+    },
+    {
+        "name": "Công ty Bảo hiểm MIC Bình Dương.",
+        "address": "Số 365 đường Phú Lợi phường Phú Lợi Thủ Dầu Một Bình Dương",
+        "location": {
+            "lat": 10.9837956,
+            "lng": 106.6784245
+        }
+    },
+    {
+        "name": "Công ty Bảo hiểm MIC Bắc Ninh",
+        "address": "Tầng 3 Tòa nhà MB Số 24 Lý Thái Tổ Phường Đại Phúc TP Bắc Ninh",
+        "location": {
+            "lat": 21.1776834,
+            "lng": 106.0692116
+        }
+    },
+    {
+        "name": "Công ty Bảo hiểm MIC TP.Hồ Chí Minh",
+        "address": "Tầng 6-7 Tòa nhà 198A  - Đường 3/2 - P12 - Quận 10 - TP Hồ Chí Minh",
+        "location": {
+            "lat": 10.7747505,
+            "lng": 106.6786757
+        }
+    },
+    {
+        "name": "Công ty Bảo hiểm MIC Hưng Yên",
+        "address": "Tầng 02 toà nhà Viettel Hưng Yên 537 Nguyễn Văn Linh Phường Hiến Nam Thành phố Hưng yên Hưng Yên",
+        "location": {
+            "lat": 20.6551297,
+            "lng": 106.0586131
+        }
+    },
+    {
+        "name": "Công ty Bảo hiểm MIC Bình Định",
+        "address": "Số 207 đường Tăng Bạt Hổ phường Trần Phú TP Quy Nhơn tỉnh Bình Định",
+        "location": {
+            "lat": 13.7730969,
+            "lng": 109.2275902
+        }
+    },
+    {
+        "name": "Công ty Bảo hiểm MIC Hà Nội",
+        "address": "Tầng 5, Tòa nhà Bắc Hà - C14, Phố Tố Hữu, Phường Trung Văn, Quận Nam Từ Liêm, TP. Hà Nội",
+        "location": {
+            "lat": 20.9978737,
+            "lng": 105.795412
+        }
+    },
+    {
+        "name": "Công ty Bảo hiểm MIC Nam Định",
+        "address": "199 Quang Trung, TP.Nam Định, Tỉnh Nam Định",
+        "location": {
+            "lat": 20.4324138,
+            "lng": 106.1770181
+        }
+    },
+    {
+        "name": "Công ty Bảo hiểm MIC Tân Sơn Nhất",
+        "address": "56 Yên Thế Phường 2 Quận Tân Bình TP. Hồ Chí Minh",
+        "location": {
+            "lat": 10.8114311,
+            "lng": 106.6684387
+        }
+    },
+    {
+        "name": "Công ty Bảo hiểm MIC Huế",
+        "address": "Tầng 5 Tòa nhà Viettel 11 Lý Thường Kiệt P.Phú Nhuận TP Huế Tỉnh TT Huế",
+        "location": {
+            "lat": 16.4617168,
+            "lng": 107.591444
+        }
+    },
+    {
+        "name": "Công ty Bảo hiểm MIC Hải Phòng",
+        "address": "Số 2B Lạch Tray, Quận Ngô Quyền, TP.Hải Phòng",
+        "location": {
+            "lat": 20.851904,
+            "lng": 106.6859536
+        }
+    },
+    {
+        "name": "Công ty Bảo hiểm MIC Thái Nguyên",
+        "address": "Tầng 3, tòa nhà Viettel, Số 4, Đ. Hoàng Văn Thụ, TP. Thái Nguyên, Tỉnh Thái Nguyên",
+        "location": {
+            "lat": 21.5945108,
+            "lng": 105.8366002
+        }
+    },
+    {
+        "name": "Công ty Bảo Hiểm MIC Quảng Nam",
+        "address": "Số 4 Tôn Đức Thắng Khối Phố 6 Phường An Sơn Thành phố Tam Kỳ Tỉnh Quảng Nam",
+        "location": {
+            "lat": 15.5630483,
+            "lng": 108.4967926
+        }
+    },
+    {
+        "name": "Công ty Bảo hiểm MIC Thủ Đô",
+        "address": "Tầng 11, Tòa nhà HTP, Số 434 Đường Trần Khát Chân, P. Phố Huế, Q. Hai Bà Trưng, TP. Hà Nội",
+        "location": {
+            "lat": 21.0093612,
+            "lng": 105.8553528
+        }
+    },
+    {
+        "name": "Công ty Bảo hiểm MIC Bà Rịa Vũng Tàu",
+        "address": "93 Lê Hồng Phong, Phường 7, TP.Vũng Tàu, Tỉnh Bà Rịa Vũng Tàu",
+        "location": {
+            "lat": 10.3556719,
+            "lng": 107.0841204
+        }
+    },
+    {
+        "name": "Công ty Bảo hiểm MIC Khánh Hòa",
+        "address": "Tầng 5 toà nhà MB số 9 Lê Thánh Tôn Lộc Thọ Nha Trang Tỉnh Khánh Hòa",
+        "location": {
+            "lat": 12.2457302,
+            "lng": 109.191094
+        }
+    },
+    {
+        "name": "Công ty Bảo hiểm MIC Thanh Hoá",
+        "address": "Tầng 03-04 Lô 21-22 MBQH 4482 dự án Trụ sở Báo Thanh Hóa đường Nguyễn Du phường Điện Biên TP Thanh Hóa.",
+        "location": {
+            "lat": 19.8026182,
+            "lng": 105.7936828
+        }
+    },
+    {
+        "name": "Công ty Bảo hiểm MIC Đông Sài Gòn",
+        "address": "46 đường số 12 Khu nhà ở Hiệp Bình Chánh khu phố 5 Phường Hiệp Bình Chánh TP.Thủ Đức TP.Hồ Chí Minh",
+        "location": {
+            "lat": 10.8305911,
+            "lng": 106.7298318
+        }
+    },
+    {
+        "name": "Công ty Bảo hiểm MIC Hà Thành",
+        "address": "\"Tầng 10, Tòa nhà 22 tầng, số 249A Thụy Khuê, phường Thụy Khuê, Quận Tây Hồ, Thành phố Hà Nội\"",
+        "location": {
+            "lat": 21.0430318,
+            "lng": 105.8162791
+        }
+    },
+    {
+        "name": "Công ty Bảo hiểm MIC Thành Đô",
+        "address": "Tầng 3 Tòa Nhà NO1-T3 Khu Đoàn Ngoại Giao Phường Xuân Tảo Quận Bắc Từ Liêm Thành Phố Hà Nội",
+        "location": {
+            "lat": 21.0660289,
+            "lng": 105.7982094
+        }
+    },
+    {
+        "name": "Công ty Bảo hiểm MIC Bình Thuận",
+        "address": "Lô A51 - đường Hùng Vương, Phường Phú Thủy, Thành phố Phan Thiết, Tỉnh Bình Thuận",
+        "location": {
+            "lat": 10.9380439,
+            "lng": 108.1160107
+        }
+    },
+    {
+        "name": "Công ty Bảo hiểm MIC Nam Sài Gòn",
+        "address": "338 Bến Vân Đồn , Phường 1, Quận 4, TP HCM",
+        "location": {
+            "lat": 10.7570186,
+            "lng": 106.6918377
+        }
+    },
+    {
+        "name": "Công ty Bảo hiểm MIC Đà Nẵng",
+        "address": "161 Nguyễn Văn Linh Phường Nam Dương Quận Hải Châu TP Đà Nẵng",
+        "location": {
+            "lat": 16.0602697,
+            "lng": 108.2148502
+        }
+    },
+    {
+        "name": "Công Ty Bảo HIểm MIC Nam Hải Phòng",
+        "address": "tầng 4 tòa nhà số 8 lô 22B đường Lê Hồng Phong. Đông KHê Ngô Quyền Hải Phòng",
+        "location": {
+            "lat": 20.8483579,
+            "lng": 106.7053955
+        }
+    },
+    {
+        "name": "Công Ty Bảo Hiểm MIC Hà Đông",
+        "address": "Tầng 1 Nha số 282 và Tầng 2 Nhà số 280-281-282 Block 28ô H-TT4 Khu nhà ở Hi Brand Khu đô thị mới Văn Phú P. Phú La Q.Hà Đông HN",
+        "location": {
+            "lat": 20.9619569,
+            "lng": 105.7685912
+        }
+    },
+    {
+        "name": "Công ty Bảo hiểm MIC Hải Dương",
+        "address": "Số 262 Đường Ngô Quyền - Phường Tân Bình - Thành phố Hải Dương - Hải Dương",
+        "location": {
+            "lat": 20.9267163,
+            "lng": 106.3145245
+        }
+    },
+    {
+        "name": "Công ty Bảo Hiểm MIC Cà Mau",
+        "address": "Số 69 (lô 69) Đường 3 tháng 2 Khóm 8 Phường 5 Thành Phố Cà Mau Tỉnh Cà Mau",
+        "location": {
+            "lat": 91.850218,
+            "lng": 105.158353
+        }
+    },
+    {
+        "name": "Công ty Bảo hiểm Mic Hòa Bình",
+        "address": "Tầng 5 - tòa nhà Viettel - Bắc Trần Hưng Đạo - TP Hòa Bình - tỉnh Hòa Bình",
+        "location": {
+            "lat": 20.8200084,
+            "lng": 105.3494883
+        }
+    },
+    {
+        "name": "Công ty Bảo hiểm MIC Quảng Trị",
+        "address": "Số 07 đường Ngô Quyền Phường 5 Thành phố Đông Hà Quảng Trị",
+        "location": {
+            "lat": 16.81349,
+            "lng": 107.1046865
+        }
+    },
+    {
+        "name": "Công ty Bảo hiểm MIC Nghệ An",
+        "address": "Số 236 Đường Trần Phú khối 10 P. Hồng Sơn TP.Vinh Tỉnh Nghệ An",
+        "location": {
+            "lat": 18.6653179,
+            "lng": 105.6866434
+        }
+    },
+    {
+        "name": "Công ty Bảo hiểm MIC Long Biên",
+        "address": "Số 558, Nguyễn Văn Cừ, P.Gia Thụy, Q.Long Biên, TP.Hà Nội",
+        "location": {
+            "lat": 21.0488345,
+            "lng": 105.8830466
+        }
+    },
+    {
+        "name": "Công ty Bảo hiểm MIC Tây Nguyên",
+        "address": "199 Lê Thánh Tông, P.Tân Lợi, TP.Buôn Ma Thuột, Tỉnh Ðắk Lắk",
+        "location": {
+            "lat": 12.6926525,
+            "lng": 108.0541582
+        }
+    },
+    {
+        "name": "Tổng Công ty cổ phần Bảo hiểm Quân đội (HO)",
+        "address": "Số 3 Liễu Giai - Phường Cống Vị - Ba Đình - Hà Nội",
+        "location": {
+            "lat": 21.035462,
+            "lng": 105.8146967
+        }
+    },
+    {
+        "name": "Công ty Bảo hiểm MIC Điện Biên Phủ",
+        "address": "Tầng 6 và tầng 7 Tòa nhà văn phòng số1 4 Phố Lý Nam Đế Phường Hàng Mã Quận Hoàn Kiếm Hà Nội",
+        "location": {
+            "lat": 21.0393785,
+            "lng": 105.8459853
+        }
+    },
+    {
+        "name": "Công ty Bảo hiểm MIC Bắc Sài Gòn",
+        "address": "Số 3 Nguyễn Oanh, Phường 10, Q.Gò Vấp, TP.HCM",
+        "location": {
+            "lat": 10.829601,
+            "lng": 106.6781192
+        }
+    },
+    {
+        "name": "Công ty Bảo hiểm MIC Tiền Giang",
+        "address": "Số 90 Ấp Bắc phường 5 TP. Mỹ Tho tỉnh Tiền Giang",
+        "location": {
+            "lat": 10.3626436,
+            "lng": 106.3605579
+        }
+    },
+    {
+        "name": "Công ty Bảo hiểm MIC Lâm Đồng",
+        "address": "Số 26 Đường Phan Đình Phùng Phường 1 Thành phố Đà Lạt Lâm Đồng",
+        "location": {
+            "lat": 11.941888,
+            "lng": 108.4333728
+        }
+    },
+    {
+        "name": "Công ty Bảo Hiểm MIC Thống Nhất",
+        "address": "Lầu 4 Cao ốc Hoàng Xuân 198A Trần Bình Trọng Phường 04 Quận 5 TP Hồ Chí Minh",
+        "location": {
+            "lat": 10.7604046,
+            "lng": 106.6801116
+        }
+    },
+    {
+        "name": "Công ty Bảo hiểm MIC Thái Bình",
+        "address": "Số 309 đường Trần Thái Tông - Phường Trần Hưng Đạo - Thành phố Thái Bình - Thái Bình",
+        "location": {
+            "lat": 20.444699,
+            "lng": 106.3270808
+        }
+    },
+    {
+        "name": "Công ty Bảo hiểm MIC Thăng Long",
+        "address": "Tầng 15 tòa nhà MIPEC số 229 Tây Sơn phường Ngã Tư Sở quận Đống Đa thành phố Hà Nội",
+        "location": {
+            "lat": 21.0055377,
+            "lng": 105.8233417
+        }
+    },
+    {
+        "name": "Công ty Bảo hiểm MIC Nam Sông Hồng",
+        "address": "Tầng 2 tòa nhà Viettel Ninh Bình số 18 đường Trần Hưng Đạo phường Tân Thành thành phố Ninh Bình tỉnh Ninh Bình",
+        "location": {
+            "lat": 20.261833,
+            "lng": 105.9693004
+        }
+    },
+    {
+        "name": "Công ty Bảo hiểm MIC Đông Đô",
+        "address": "Tầng 2, toà nhà King, số 7 Chùa Bộc, phường Quang Trung, quận Đống Đa, thành phố Hà Nội",
+        "location": {
+            "lat": 21.0067658,
+            "lng": 105.8292706
+        }
+    },
+    {
+        "name": "Công ty Bảo hiểm MIC Gia Định",
+        "address": "Lầu 5 Tòa nhà Athena 146-148 Cộng Hòa Phường 12 Quận Tân Bình TPHCM",
+        "location": {
+            "lat": 10.8017778,
+            "lng": 106.6519069
+        }
+    },
+    {
+        "name": "Công ty Bảo hiểm MIC An Giang",
+        "address": "Số 56 đường Nguyễn Trãi phường Mỹ Long Thành phố Long Xuyên Tỉnh An Giang",
+        "location": {
+            "lat": 10.3801815,
+            "lng": 105.4414995
+        }
+    },
+    {
+        "name": "Công ty Bảo Hiểm MIC Tây Ninh",
+        "address": "Số 948 đường Cách Mạng Tháng 8 TP Tây Ninh Tỉnh Tây Ninh",
+        "location": {
+            "lat": 11.3067549,
+            "lng": 106.1227341
+        }
+    },
+    {
+        "name": "Công ty Bảo hiểm MIC Quảng Ngãi",
+        "address": "Số 281 Phan Bội Châu phường Trần Hưng Đạo TP Quảng Ngãi tỉnh Quảng Ngãi",
+        "location": {
+            "lat": 15.1234093,
+            "lng": 108.7985018
+        }
+    },
+    {
+        "name": "Công ty Bảo Hiểm MIC Phú Mỹ",
+        "address": "178A Nguyễn Văn Trỗi phường 08 Quận Phú Nhuận TPHCM",
+        "location": {
+            "lat": 10.7991119,
+            "lng": 106.6698602
+        }
+    },
+    {
+        "name": "Công ty Bảo hiểm MIC Nam Đà Nẵng",
+        "address": "Số 127 đường Điện Biên Phủ Phường Chính Gián TP Đà Nẵng",
+        "location": {
+            "lat": 16.0654134,
+            "lng": 108.1991735
+        }
+    },
+    {
+        "name": "Công ty Bảo Hiểm MIC Long An",
+        "address": "Số 357A Quốc lộ 1 Phường 4 Thành phố Tân An tỉnh Long An",
+        "location": {
+            "lat": 10.5317968,
+            "lng": 106.3970123
+        }
+    },
+    {
+        "name": "Công ty Bảo hiểm MIC Kiên Giang",
+        "address": "Lô A2 Căn 11 đường Trần Quang Khải Phường An Hòa TP Rạch Giá tỉnh Kiên Giang",
+        "location": {
+            "lat": 99.856097,
+            "lng": 105.1046886
+        }
+    },
+    {
+        "name": "Công ty Bảo hiểm MIC Hùng Vương",
+        "address": "Tầng 3 tháp A tòa nhà Golden Palace đường K1 phường Mễ Trì quận Nam Từ Liêm TP Hà Nội",
+        "location": {
+            "lat": 21.0118458,
+            "lng": 105.7746451
+        }
+    },
+    {
+        "name": "Công ty Bảo hiểm MIC Đồng Nai",
+        "address": "R168 đường Võ thị Sáu KP7 P.Thống Nhất Biên Hoà Đồng Nai",
+        "location": {
+            "lat": 10.9486835,
+            "lng": 106.8354469
+        }
+    },
+    {
+        "name": "Công ty Bảo hiểm MIC Đông Đồng Nai",
+        "address": "88B đường Trương Định - KP2 phường Tân Mai TP Biên Hòa tỉnh Đồng Nai",
+        "location": {
+            "lat": 10.9601891,
+            "lng": 106.8501677
+        }
+    },
+    {
+        "name": "Công ty Bảo hiểm MIC Cần Thơ",
+        "address": "Số 320/3A Đường Trần Ngọc Quế P. Hưng Lợi Quận Ninh Kiều TP Cần Thơ",
+        "location": {
+            "lat": 10.022276,
+            "lng": 105.770554
+        }
+    },
+    {
+        "name": "Công Ty Bảo Hiểm MIC Bến Thành",
+        "address": "Số 14 Phan Tôn Phường Đa Kao Quận 1 TP>HCM",
+        "location": {
+            "lat": 10.7903314,
+            "lng": 106.6960763
+        }
+    },
+    {
+        "name": "Công ty Bảo hiểm MIC Tây Bắc",
+        "address": "Tầng 5 tòa nhà Viettel Phú Thọ số 1688 phường Nông Trang TP Việt Trì T Phú Thọ",
+        "location": {
+            "lat": 21.3260421,
+            "lng": 105.3820571
+        }
+    },
+    {
+        "name": "Công ty Bảo hiểm MIC Gia Lai",
+        "address": "Số 118 đường Hai Bà Trưng Phường Yên Đỗ TP Pleiku Tỉnh Gia Lai",
+        "location": {
+            "lat": 13.9800493,
+            "lng": 107.9952848
+        }
+    },
+    {
+        "name": "Tổng công ty CP Bảo hiểm Quân đội - Công ty bảo hiểm MIC Vĩnh Phúc",
+        "address": "Tầng 5 tòa nhà Viettel KĐT Chùa Hà Tiên TP Vĩnh Yên tỉnh Vĩnh Phúc",
+        "location": {
+            "lat": 21.3265601,
+            "lng": 105.5984998
+        }
+    },
+    {
+        "name": "Công ty Bảo hiểm MIC An Phú",
+        "address": "76 Nguyễn Quý Đức Khu phố 5 phường An Phú Thành Phố Thủ Đức Thành phố Hồ Chí Minh",
+        "location": {
+            "lat": 10.7967492,
+            "lng": 106.738933
+        }
+    },
+    {
+        "name": "Công ty Bảo hiểm MIC Phú Yên",
+        "address": "Số 132 Nguyễn Huệ - Phường 7 - Thành phố Tuy Hoà - Tỉnh Phú Yên",
+        "location": {
+            "lat": 13.0943786,
+            "lng": 109.3135048
+        }
+    },
+    {
+        "name": "Công Ty Bảo Hiểm MIC Sơn La",
+        "address": "Tầng 1 ( tầng trệt) tòa nhà Viettel số 1 Chu Văn Thịnh Tổ 1 P.Tô hiệu TP Sơn La T. Sơn La",
+        "location": {
+            "lat": 21.32813,
+            "lng": 103.9141
+        }
+    },
+    {
+        "name": "Công ty Bảo Hiểm MIC Quảng Bình",
+        "address": "58 Quang Trung Đồng Hải Đồng Hới Quảng Bình",
+        "location": {
+            "lat": 17.4658503,
+            "lng": 106.6234034
+        }
+    },
+    {
+        "name": "Công ty Bảo hiểm MIC Thành An",
+        "address": "Tầng 4 Tòa nhà 319 Tower số 63 Lê Văn Lương Phường Trung Hòa Quận Cầu Giấy Thành phố Hà Nội",
+        "location": {
+            "lat": 21.008055,
+            "lng": 105.807989
+        }
+    },
+    {
+        "name": "Công ty Bảo hiểm MIC Tràng An",
+        "address": "Tầng 5 số 28 phố Trần Nhật Duật phường Đồng Xuân quận Hoàn Kiếm Hà Nội",
+        "location": {
+            "lat": 21.0373087,
+            "lng": 105.8525594
+        }
+    },
+    {
+        "name": "Công ty Bảo hiểm MIC Yên Bái",
+        "address": "Tầng 6 tòa nhà Viettel Yên Bái tổ dân phố Hồng Phú phường Hồng Hà TP. Yên Bái tỉnh Yên Bái.",
+        "location": {
+            "lat": 21.7021613,
+            "lng": 104.8815645
+        }
+    },
+    {
+        "name": "Công ty Bảo hiểm MIC Sài Gòn",
+        "address": "202 Đường Lê Lai P.Bến Thành Quận 1 TP.HCM",
+        "location": {
+            "lat": 10.7688591,
+            "lng": 106.6904564
+        }
+    }
+]

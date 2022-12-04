@@ -1,0 +1,254 @@
+[
+    {
+        "province": "Hà Nội",
+        "phone_number": "0692.196.886"
+    },
+    {
+        "province": "Hồ Chí Minh",
+        "phone_number": "0693.187.521"
+    },
+    {
+        "province": "An Giang",
+        "phone_number": "02963.841.047"
+    },
+    {
+        "province": "Bạc Liêu",
+        "phone_number": "02913.822.762"
+    },
+    {
+        "province": "Bắc Giang",
+        "phone_number": "02043.854.789"
+    },
+    {
+        "province": "Bắc Cạn",
+        "phone_number": "0692.549.152"
+    },
+    {
+        "province": "Bắc Ninh",
+        "phone_number": "02223.822.405"
+    },
+    {
+        "province": "Bến Tre",
+        "phone_number": "02753.829.657"
+    },
+    {
+        "province": "Bình Dương",
+        "phone_number": "02743.822.309"
+    },
+    {
+        "province": "Bình Định",
+        "phone_number": "02563.822.863"
+    },
+    {
+        "province": "Bình Phước",
+        "phone_number": "02713.879.924"
+    },
+    {
+        "province": "Bình Thuận",
+        "phone_number": "0693.428.121"
+    },
+    {
+        "province": "Cà Mau",
+        "phone_number": "02903.831.214"
+    },
+    {
+        "province": "Cao Bằng",
+        "phone_number": "02063.852.439"
+    },
+    {
+        "province": "Cần Thơ",
+        "phone_number": "02923.737.455"
+    },
+    {
+        "province": "Đà Nẵng",
+        "phone_number": "0694.260.332"
+    },
+    {
+        "province": "Đắc Lắc",
+        "phone_number": "02623.853.598"
+    },
+    {
+        "province": "Đắc Nông",
+        "phone_number": "02613.544.499"
+    },
+    {
+        "province": "Điện Biên",
+        "phone_number": "02153.824.357"
+    },
+    {
+        "province": "Đồng Nai",
+        "phone_number": "0693.480.204"
+    },
+    {
+        "province": "Đồng Tháp",
+        "phone_number": "02773.851.054"
+    },
+    {
+        "province": "Gia Lai",
+        "phone_number": "0694.329.184"
+    },
+    {
+        "province": "Hà Giang",
+        "phone_number": "0692.429.142"
+    },
+    {
+        "province": "Hà Nam",
+        "phone_number": "02263.851.021"
+    },
+    {
+        "province": "Hà Tĩnh",
+        "phone_number": "0692.928.299"
+    },
+    {
+        "province": "Hải Dương",
+        "phone_number": "0692.829.303"
+    },
+    {
+        "province": "Hải Phòng",
+        "phone_number": "0692.785.827"
+    },
+    {
+        "province": "Hòa Bình",
+        "phone_number": "0692.709.228"
+    },
+    {
+        "province": "Hậu Giang",
+        "phone_number": "0693.769.267"
+    },
+    {
+        "province": "Hưng Yên",
+        "phone_number": "02213.865.306"
+    },
+    {
+        "province": "Khánh Hòa",
+        "phone_number": "02583.822.116"
+    },
+    {
+        "province": "Kiên Giang",
+        "phone_number": "02973.862.024"
+    },
+    {
+        "province": "Komtum",
+        "phone_number": "02603.862.459"
+    },
+    {
+        "province": "Lai Châu",
+        "phone_number": "02133.877.027"
+    },
+    {
+        "province": "Lạng Sơn",
+        "phone_number": "02053.811.294"
+    },
+    {
+        "province": "Lào Cai",
+        "phone_number": "02143.869.176"
+    },
+    {
+        "province": "Lâm Đồng",
+        "phone_number": "02633.822.208"
+    },
+    {
+        "province": "Long An",
+        "phone_number": "02723.989.235"
+    },
+    {
+        "province": "Nam Định",
+        "phone_number": "0692.741.026"
+    },
+    {
+        "province": "Nghệ An",
+        "phone_number": "0692.906.712"
+    },
+    {
+        "province": "Ninh Bình",
+        "phone_number": "0692.860.568"
+    },
+    {
+        "province": "Ninh Thuận",
+        "phone_number": "02593.823.309"
+    },
+    {
+        "province": "Phú Thọ",
+        "phone_number": "0692.645.156"
+    },
+    {
+        "province": "Phú Yên",
+        "phone_number": "02573.847.045"
+    },
+    {
+        "province": "Quảng Bình",
+        "phone_number": "02323.822.188"
+    },
+    {
+        "province": "Quảng Nam",
+        "phone_number": "0694.160.416"
+    },
+    {
+        "province": "Quảng Ngãi",
+        "phone_number": "02553.822.883"
+    },
+    {
+        "province": "Quảng Ninh",
+        "phone_number": "0692.808.299"
+    },
+    {
+        "province": "Quảng Trị",
+        "phone_number": "0694.120.008"
+    },
+    {
+        "province": "Sóc Trăng",
+        "phone_number": "02993.617.617"
+    },
+    {
+        "province": "Sơn La",
+        "phone_number": "0692.680.132"
+    },
+    {
+        "province": "Tây Ninh",
+        "phone_number": "02763.824.182"
+    },
+    {
+        "province": "Thái Bình",
+        "phone_number": "0692.760.281"
+    },
+    {
+        "province": "Thái Nguyên",
+        "phone_number": "0692.669.121"
+    },
+    {
+        "province": "Thanh Hóa",
+        "phone_number": "02373.711.861"
+    },
+    {
+        "province": "Huế",
+        "phone_number": "02343.823.856"
+    },
+    {
+        "province": "Tiền Giang",
+        "phone_number": "0693.599.585"
+    },
+    {
+        "province": "Trà Vinh",
+        "phone_number": "02943.842.115"
+    },
+    {
+        "province": "Tuyên Quang",
+        "phone_number": "02073.821.968"
+    },
+    {
+        "province": "Vĩnh Long",
+        "phone_number": "02703.833.939"
+    },
+    {
+        "province": "Vĩnh Phúc",
+        "phone_number": "0692.621.128"
+    },
+    {
+        "province": "Vũng Tàu",
+        "phone_number": "0693.545.771"
+    },
+    {
+        "province": "Yên Bái",
+        "phone_number": "0692.509.338"
+    }
+]
